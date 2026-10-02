@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Olá Mundo</string>
+    <string name="diz_ola">Diz Ola</string>
+    <string name="muda">Mudar</string>
+</resources>
